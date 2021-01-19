@@ -4,7 +4,7 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		
-		// console Ã¢¿¡ Ãâ·ÂÇÏ±â.
+		// console ì°½ì— ì¶œë ¥.
 		System.out.println("Hello Java World!!");
 		
 	}
